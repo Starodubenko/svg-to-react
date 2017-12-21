@@ -1,1 +1,3 @@
-export { default as EmptyPagePlaceholder } from './EmptyPagePlaceholder';
+export * from './Area';
+export * from './Sit';
+export * from './CustomFileReader';
